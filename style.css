@@ -1,0 +1,153 @@
+h1{
+    color: rgb(5, 17, 14);
+    text-align: center;
+    background-color: rgb(222, 223, 235);
+    border-top-left-radius: 200cqmax;
+    border-top-right-radius: 200cqmax;
+    border-bottom-left-radius: 200cqmax;
+    border-bottom-right-radius: 200cqmax;
+    border-style: groove;
+    border-right: 5vmax;
+    border-left: 5vmax;
+    border-bottom-style: dotted;
+    border-top-style: dotted; 
+}
+    
+    
+    
+
+
+p
+{
+    color: black;
+
+}
+h2{
+    color: rgb(15, 4, 4);
+    background-color: rgb(161, 235, 192);
+    border-top-left-radius: 200cqmax;
+    border-top-right-radius: 200cqmax;
+    border-bottom-left-radius: 200cqmax;
+    border-bottom-right-radius: 200cqmax;
+    border-style: groove;
+    border-right: 5vmax;
+    border-left: 5vmax;
+    border-bottom-style: dotted;
+    border-top-style: dotted; 
+}
+
+
+ box{ box-sizing: border-box;
+    margin: 50cm;
+    padding: 200cm;
+
+
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 5ch;
+    color: rgb(29, 27, 26);
+    padding: 20px;
+    text-align: center;
+
+
+}
+
+header{
+    background-color: rgb(3, 255, 45);
+    color: lightslategrey;
+    padding: 30px;
+    text-align: left;
+    
+
+
+
+}
+
+nav{
+    
+    
+    text-align: center;
+    background: darkgrey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 0rem calc( (100vw - 1300px ) / 2);
+    -webkit-text-stroke-color: aqua;
+    text-decoration-color: blue;
+
+
+
+}
+
+nav ul{
+    
+    display: flex;
+    align-items: center;
+    
+
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    
+    
+
+}
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding: 90px;
+    animation: backwards;
+
+
+}
+
+section{ 
+    padding: 50px;
+    margin-bottom: 20px;
+    
+
+}
+
+footer{
+    background-color: rgb(255, 102, 0);
+    color: rgb(2, 86, 241);
+    padding-bottom: 80px;
+    text-align: end;
+}
+
+
+:root{
+    --primary-color:#ce0c15;
+    --secondary-color:#bd0f89;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container{
+    max-width: fit-content;
+    margin: 50px;
+    padding: 20px;
+
+
+}
+:logo{
+    color: black;
+    font-size:1.5rem ;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0.2rem;
+
+
+}
+
+
+
